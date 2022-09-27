@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 [![@denis's Holopin board](https://holopin.io/api/user/board?user=denis)](https://holopin.io/@denis)
+
+Participant hacktoberfest 2020 & 2022.
+
